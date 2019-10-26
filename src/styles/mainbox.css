@@ -1,3 +1,10 @@
 .jumbotron {
     background-color: aqua;
 }
+
+p {
+    text-align: center;
+}
+#mainbox {
+    height: 500px
+};
